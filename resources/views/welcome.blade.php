@@ -25,7 +25,7 @@
 
             /* Add the blur effect */
             filter: blur(8px);
-            -webkit-filter: blur(8px);
+            -webkit-filter: blur(25px);
 
             /* Full height */
             height: 100%;
@@ -58,8 +58,8 @@
         <div class="bg-image"></div>
 
         <div class="bg-text">
-        <h1>School Management System</h1>
-        <p><a href="/login" class="btn btn-success col-4">Login</a></p>
+        <h1 class="display-3">School Management System</h1>
+        <p><a href="/login" class="btn btn-success col-4 font-weight-bold">Login</a></p>
         </div>
     </body>
 </html>

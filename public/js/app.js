@@ -43303,7 +43303,7 @@ var render = function() {
           _vm._v(" "),
           _c("div", { staticClass: "row mt-5" }, [
             _c("div", { staticClass: "col-lg-3 col-6" }, [
-              _c("div", { staticClass: "small-box bg-info" }, [
+              _c("div", { staticClass: "small-box bg-primary" }, [
                 _c("div", { staticClass: "inner" }, [
                   _c("h3", [_vm._v(_vm._s(_vm.teachers.length))]),
                   _vm._v(" "),
